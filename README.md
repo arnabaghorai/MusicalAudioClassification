@@ -17,3 +17,7 @@
 #### Notebooks
 - Preprocessing.ipynb
 - Modelling.ipynb
+
+#### Architectures used for Classification
+- CNN
+- RNN (LSTM)
