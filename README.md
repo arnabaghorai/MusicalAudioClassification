@@ -1,10 +1,19 @@
-# Audio-Classification
-empty directory for audio classification videos
+### Musical Istruments Audio Classification
 
-### Setup a conda virtual environment (windows)
+#### Classes:
+- Acoustic_guitar   
+- Bass_drum        
+- Cello           
+- Clarinet        
+- Double_bass     
+- Flute               
+- Hi-hat             
+- Saxophone          
+- Snare_drum         
+- Violin_or_fiddle 
 
-```
-conda create -n audio python=3.6
-activate audio
-pip install -r requirements.txt
-```
+![Class Distribution](assets/class_distribution.png)
+
+#### Notebooks
+- Preprocessing.ipynb
+- Modelling.ipynb
